@@ -1,0 +1,25 @@
+{
+  "author": "Benoit Lemaire <lemaireb@gmail.com>",
+  "name": "xcode-ern",
+  "description": "parser for xcodeproj/project.pbxproj files adapted for Electrode React Native",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/belemaire/xcode-ern.git"
+  },
+  "engines": {
+    "node": ">=0.6.7"
+  },
+  "dependencies": {
+    "pegjs": "0.9.0",
+    "simple-plist": "0.1.4",
+    "uuid":"3.0.1"
+  },
+  "devDependencies": {
+    "nodeunit": "0.9.1"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/nodeunit test/parser test"
+  },
+  "license": "Apache-2.0"
+}
