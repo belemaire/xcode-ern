@@ -1,7 +1,7 @@
 {
   "author": "Benoit Lemaire <lemaireb@gmail.com>",
   "name": "xcode-ern",
-  "description": "parser for xcodeproj/project.pbxproj files adapted for Electrode React Native",
+  "description": "Parser for xcodeproj/project.pbxproj files adapted for Electrode Native",
   "version": "1.0.0",
   "main": "index.js",
   "repository": {
