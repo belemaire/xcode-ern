@@ -2,7 +2,7 @@
   "author": "Benoit Lemaire <lemaireb@gmail.com>",
   "name": "xcode-ern",
   "description": "Parser for xcodeproj/project.pbxproj files adapted for Electrode Native",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "repository": {
     "url": "https://github.com/belemaire/xcode-ern.git"
